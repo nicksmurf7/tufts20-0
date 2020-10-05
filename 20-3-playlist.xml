@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "20-3-style.css"?>
+<playlist>
+  <bandName>
+    "Murphy's Majestic Coverband"
+  </bandName>
+  <song>
+      <songTitle>
+      "One step ahead"
+      </songTitle>
+      <artist>
+      "Aretha Franklin"
+      </artist>
+      <genre>
+      "Soul"
+      </genre>
+      <year>
+      "1972"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Trouble on Central"
+      </songTitle>
+      <artist>
+      "Buddy"
+      </artist>
+      <genre>
+      "Rap"
+      </genre>
+      <year>
+      "2018"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Me and your Mama"
+      </songTitle>
+      <artist>
+      "Childish Gambino"
+      </artist>
+      <genre>
+      "RnB"
+      </genre>
+      <year>
+      "2016"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Go!"
+      </songTitle>
+      <artist>
+      "Common"
+      </artist>
+      <genre>
+      "Rap"
+      </genre>
+      <year>
+      "2005"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Get Lucky"
+      </songTitle>
+      <artist>
+      "Daft Punk"
+      </artist>
+      <genre>
+      "Dance"
+      </genre>
+      <year>
+      "2013"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "CASH MANIAC"
+      </songTitle>
+      <artist>
+      "Denzel Curry"
+      </artist>
+      <genre>
+      "Rap"
+      </genre>
+      <year>
+      "2018"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "The Watcher"
+      </songTitle>
+      <artist>
+      "Dr Dre"
+      </artist>
+      <genre>
+      "Rap"
+      </genre>
+      <year>
+      "1999"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Love's Holiday"
+      </songTitle>
+      <artist>
+      "Earth Wind and Fire"
+      </artist>
+      <genre>
+      "RnB"
+      </genre>
+      <year>
+      "1977"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Death Row"
+      </songTitle>
+      <artist>
+      "Freddie Gibbs"
+      </artist>
+      <genre>
+      "Rap"
+      </genre>
+      <year>
+      "2018"
+      </year>
+  </song>
+  <song>
+      <songTitle>
+      "Didn't Cha Know"
+      </songTitle>
+      <artist>
+      "Erykah Badu"
+      </artist>
+      <genre>
+      "RnB"
+      </genre>
+      <year>
+      "2000"
+      </year>
+  </song>
+</playlist>
